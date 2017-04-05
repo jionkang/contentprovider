@@ -1,0 +1,3 @@
+# contentprovider
+封装了contentprovider的insert update等操作   
+demo中未实现业务但是通过sqlitehelper展示如何使用
