@@ -20,7 +20,7 @@ import java.util.ArrayList;
  * Created by xiejiantao on 2017/4/5.
  */
 
-public abstract class XjtContentProvider extends ContentProvider {
+public abstract class NotifyContentProvider extends ContentProvider {
     public static final String PARAMETER_NOTIFY = "notify";
 
     private static final String PARAMETER_TYPE = "type";
